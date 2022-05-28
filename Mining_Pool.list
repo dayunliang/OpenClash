@@ -8,6 +8,9 @@ IP-CIDR,76.223.62.235/32,no-resolve
 IP-CIDR,13.248.162.234/32,no-resolve
 IP-CIDR,35.71.149.227/32,no-resolve
 IP-CIDR,52.223.34.207/32,no-resolve
+IP-CIDR,112.74.42.241/32,no-resolve
+	
+
 
 # > F2Pool
 
