@@ -13,13 +13,20 @@ payload:
    - IP-CIDR,142.250.204.78/32,no-resolve
    - IP-CIDR,64.233.189.101/32,no-resolve
    - IP-CIDR,142.250.115.188/32,no-resolve
+   - IP-CIDR,142.251.84.42/32,no-resolve
    
 # Cloudfare
 
-   - IP-CIDR,162.159.134.234/32,no-resolve 
+   - IP-CIDR,162.159.134.234/32,no-resolve
+   - IP-CIDR,172.67.128.196/32,no-resolve 
    
 # Github
 
    - IP-CIDR,162.159.134.234/32,no-resolve
    - IP-CIDR,140.82.113.25/32,no-resolve
    - IP-CIDR,20.205.243.166/32,no-resolve
+   - IP-CIDR,20.205.243.168/32,no-resolve
+   
+# Yahoo
+
+   - IP-CIDR,106.10.236.72/32,no-resolve
