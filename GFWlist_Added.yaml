@@ -1,7 +1,7 @@
 
 payload:
 
-# ipify
+# OpenClash
 
    - DOMAIN,api.ipify.org
    - DOMAIN,api.ip.sb
