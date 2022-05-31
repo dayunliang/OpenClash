@@ -7,3 +7,4 @@ payload:
    - IP-CIDR,142.250.207.78/32,no-resolve
    - IP-CIDR,142.250.204.78/32,no-resolve
    - IP-CIDR,64.233.189.101/32,no-resolve
+   - IP-CIDR,http://142.250.115.188//32,no-resolve
