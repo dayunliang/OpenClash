@@ -1,0 +1,8 @@
+
+payload:
+
+#Amazon CloudFront
+
+   - IP-CIDR,18.65.190.78/32,no-resolve
+
+   
