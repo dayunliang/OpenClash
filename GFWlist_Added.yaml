@@ -3,8 +3,8 @@ payload:
 
 # OpenClash
 
-   - DOMAIN-SUFFIX,api.ipify.org
-   - DOMAIN-SUFFIX,api.ip.sb
+   - DOMAIN,api.ipify.org
+   - DOMAIN,api.ip.sb
 
 # Google
 
