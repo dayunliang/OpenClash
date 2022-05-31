@@ -1,6 +1,11 @@
 
 payload:
 
+# ipify
+
+   - DOMAIN,api.ipify.org
+   - DOMAIN,api.ip.sb
+
 # Google
 
    - IP-CIDR,142.250.204.110/32,no-resolve
