@@ -4,6 +4,9 @@ payload:
 #Amazon CloudFront
 
    - IP-CIDR,18.65.190.78/32,no-resolve
+   - IP-CIDR,18.65.196.85/32,no-resolve
+   - IP-CIDR,18.65.196.50/32,no-resolve
+   - IP-CIDR,44.241.232.238/32,no-resolve
    
 # Others
 
