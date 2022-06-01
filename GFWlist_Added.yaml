@@ -4,7 +4,7 @@ payload:
 # OpenClash
 
    - DOMAIN,api.ipify.org
-   - DOMAIN,api.ip.sb
+   - DOMAIN,api-ipv4.ip.sb
 
 # Google
 
