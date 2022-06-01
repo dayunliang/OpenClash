@@ -7,6 +7,8 @@ payload:
    - IP-CIDR,18.65.196.85/32,no-resolve
    - IP-CIDR,18.65.196.50/32,no-resolve
    - IP-CIDR,44.241.232.238/32,no-resolve
+   - IP-CIDR,54.192.248.0/21,no-resolve
+   - IP-CIDR,52.8.0.0/16,no-resolve
    
 # Others
 
