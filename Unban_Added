@@ -12,5 +12,6 @@ payload:
 
    - DOMAIN-SUFFIX,termius.com
    - DOMAIN-SUFFIX,ipinfo.io
+   - IP-CIDR,34.117.59.81/32,no-resolve
 
    
