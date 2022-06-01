@@ -33,6 +33,7 @@ payload:
    - IP-CIDR,20.197.71.89/32,no-resolve
    - IP-CIDR,140.82.114.26/32,no-resolve
    - IP-CIDR,104.26.0.0/20,no-resolve
+   - IP-CIDR,140.82.112.0/24,no-resolve
    
 # Yahoo
 
@@ -41,3 +42,8 @@ payload:
 # Valve/Steam
 
    - IP-CIDR,155.133.239.0/24,no-resolve
+   
+# Heroku
+
+   - IP-CIDR,3.224.0.0/12,no-resolve
+   - IP-CIDR,52.20.0.0/14,no-resolve
