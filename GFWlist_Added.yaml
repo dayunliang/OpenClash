@@ -5,6 +5,7 @@ payload:
 
    - DOMAIN,api.ipify.org
    - DOMAIN,api-ipv4.ip.sb
+   - DOMAIN,api.ip.sb
 
 # Google
 
