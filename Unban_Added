@@ -5,6 +5,8 @@ payload:
 
    - IP-CIDR,18.65.190.78/32,no-resolve
    
-###
+# Others
+
+   - DOMAIN,api.termius.com
 
    
