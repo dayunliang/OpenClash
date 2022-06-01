@@ -20,6 +20,9 @@ payload:
 
    - IP-CIDR,162.159.134.234/32,no-resolve
    - IP-CIDR,172.67.128.196/32,no-resolve
+   - IP-CIDR,162.159.128.0/19,no-resolve
+   - IP-CIDR,172.67.192.0/20,no-resolve
+   - IP-CIDR,104.26.0.0/20,no-resolve
    
 # Github
 
@@ -28,7 +31,13 @@ payload:
    - IP-CIDR,20.205.243.166/32,no-resolve
    - IP-CIDR,20.205.243.168/32,no-resolve
    - IP-CIDR,20.197.71.89/32,no-resolve
+   - IP-CIDR,140.82.114.26/32,no-resolve
+   - IP-CIDR,104.26.0.0/20,no-resolve
    
 # Yahoo
 
    - IP-CIDR,106.10.236.72/32,no-resolve
+   
+# Valve/Steam
+
+   - IP-CIDR,155.133.239.0/24,no-resolve
