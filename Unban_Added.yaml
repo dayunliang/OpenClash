@@ -1,0 +1,23 @@
+
+payload:
+
+#Amazon CloudFront
+
+   - IP-CIDR,18.65.190.78/32,no-resolve
+   - IP-CIDR,18.65.196.85/32,no-resolve
+   - IP-CIDR,18.65.196.50/32,no-resolve
+   - IP-CIDR,44.241.232.238/32,no-resolve
+   - IP-CIDR,54.192.248.0/21,no-resolve
+   - IP-CIDR,52.8.0.0/16,no-resolve
+   - IP-CIDR,18.178.0.0/16,no-resolve
+   - IP-CIDR,13.226.232.0/21,no-resolve
+   
+# Others
+
+   - DOMAIN-SUFFIX,termius.com
+   - DOMAIN-SUFFIX,splashtop.com
+   - DOMAIN-SUFFIX,ipinfo.io
+   - DOMAIN-SUFFIX,ultramobile.com
+   - DOMAIN-SUFFIX,hivebedrock.network
+   - IP-CIDR,34.117.59.81/32,no-resolve
+   - IP-CIDR,104.86.176.0/22,no-resolve #Akamai Technologies, Inc.
