@@ -23,5 +23,6 @@ payload:
    - DOMAIN-SUFFIX,hp.com
    - DOMAIN-SUFFIX,unity3d.com
    - DOMAIN-SUFFIX,unity.com
+   - DOMAIN-SUFFIX,grammarly.io
    - IP-CIDR,34.117.59.81/32,no-resolve
    - IP-CIDR,104.86.176.0/22,no-resolve #Akamai Technologies, Inc.
