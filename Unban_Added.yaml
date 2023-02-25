@@ -26,5 +26,6 @@ payload:
    - DOMAIN-SUFFIX,grammarly.io
    - DOMAIN-SUFFIX,grammarly.com
    - DOMAIN-SUFFIX,nvidia.com
+   - DOMAIN-SUFFIX,split.io
    - IP-CIDR,34.117.59.81/32,no-resolve
    - IP-CIDR,104.86.176.0/22,no-resolve #Akamai Technologies, Inc.
