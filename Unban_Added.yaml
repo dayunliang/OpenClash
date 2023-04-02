@@ -31,6 +31,7 @@ payload:
    - DOMAIN-SUFFIX,chinanetcenter.com # 网宿科技
    - DOMAIN-SUFFIX,seesaw.me # Justin Da Learning
    - DOMAIN-SUFFIX,squarespace.com
+   - DOMAIN-SUFFIX,b-gfw.sbs # Personal Domain
    
    - IP-CIDR,34.117.59.81/32,no-resolve
    - IP-CIDR,104.86.176.0/22,no-resolve # Akamai Technologies, Inc.
