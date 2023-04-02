@@ -34,3 +34,4 @@ payload:
    
    - IP-CIDR,34.117.59.81/32,no-resolve
    - IP-CIDR,104.86.176.0/22,no-resolve # Akamai Technologies, Inc.
+   - IP-CIDR,47.242.93.89/22,no-resolve # ALI-HK VPS
