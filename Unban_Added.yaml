@@ -28,7 +28,7 @@ payload:
    - DOMAIN-SUFFIX,nvidia.com
    - DOMAIN-SUFFIX,split.io
    - DOMAIN-SUFFIX,hotjar.com
-   - DOMAIN-SUFFIX,osim.com
+   - DOMAIN-SUFFIX,osim.com.hk
    - DOMAIN-SUFFIX,chinanetcenter.com # 网宿科技
    - DOMAIN-SUFFIX,seesaw.me # Justin Da Learning
    - DOMAIN-SUFFIX,squarespace.com
