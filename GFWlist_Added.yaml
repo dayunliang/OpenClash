@@ -47,3 +47,6 @@ payload:
 
    - IP-CIDR,3.224.0.0/12,no-resolve
    - IP-CIDR,52.20.0.0/14,no-resolve
+   
+# IMDB
+   - DOMAIN,api.themoviedb.org
