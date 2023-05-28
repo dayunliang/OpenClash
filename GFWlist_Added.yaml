@@ -51,3 +51,4 @@ payload:
 # IMDB
    - DOMAIN,api.themoviedb.org
    - DOMAIN,tmdb.org
+   - DOMAIN,dmm.co.jp
