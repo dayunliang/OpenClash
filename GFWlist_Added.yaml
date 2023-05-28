@@ -50,3 +50,4 @@ payload:
    
 # IMDB
    - DOMAIN,api.themoviedb.org
+   - DOMAIN,tmdb.org
