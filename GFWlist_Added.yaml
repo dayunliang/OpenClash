@@ -53,4 +53,4 @@ payload:
    - DOMAIN,tmdb.org
    - DOMAIN,dmm.co.jp
 # M-Team
-   - DOMAIN,m-team.cc
+   - DOMAIN-SUFFIX,m-team.cc
