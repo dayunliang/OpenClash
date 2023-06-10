@@ -52,5 +52,6 @@ payload:
    - DOMAIN,api.themoviedb.org
    - DOMAIN,tmdb.org
    - DOMAIN,dmm.co.jp
+   
 # M-Team
    - DOMAIN-SUFFIX,m-team.cc
