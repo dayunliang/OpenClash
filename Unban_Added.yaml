@@ -37,6 +37,6 @@ payload:
    - IP-CIDR,104.86.176.0/22,no-resolve # Akamai Technologies, Inc.
    - IP-CIDR,47.242.93.89/32,no-resolve # ALI-HK VPS
    - IP-CIDR,101.132.178.196/32,no-resolve # ALI-HK VPS
-
-   # QingTian TV
-   - IP-CIDR,135.148.104.228/32,no-resolve
+   - IP-CIDR,135.148.104.228/32,no-resolve # QingTian TV
+  
+   
