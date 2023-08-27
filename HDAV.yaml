@@ -9,5 +9,7 @@ payload:
    - DOMAIN-SUFFIX,javdb40.com
    - DOMAIN-SUFFIX,msin.jp
    - DOMAIN-SUFFIX,fc2.com
+   - DOMAIN-SUFFIX,avsox.click
+   
    - IP-CIDR,69.28.53.205/32,no-resolve
    #- DOMAIN-KEYWORD,espn
