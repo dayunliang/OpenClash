@@ -10,6 +10,7 @@ payload:
    - DOMAIN-SUFFIX,msin.jp
    - DOMAIN-SUFFIX,fc2.com
    - DOMAIN-SUFFIX,avsox.click
+   - DOMAIN-SUFFIX,tellme.pw
    
    - IP-CIDR,69.28.53.205/32,no-resolve
    #- DOMAIN-KEYWORD,espn
