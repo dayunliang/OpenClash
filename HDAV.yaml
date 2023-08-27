@@ -3,6 +3,8 @@ payload:
    
 # HDAV
 
+  #- DOMAIN-KEYWORD,espn
+  
    - DOMAIN-SUFFIX,arzon.jp
    - DOMAIN-SUFFIX,aventertainments.com
    - DOMAIN-SUFFIX,javdb.com
@@ -13,4 +15,3 @@ payload:
    - DOMAIN-SUFFIX,tellme.pw
    
    - IP-CIDR,69.28.53.205/32,no-resolve
-   #- DOMAIN-KEYWORD,espn
