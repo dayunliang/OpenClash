@@ -55,6 +55,3 @@ payload:
    
 # M-Team
    - DOMAIN-SUFFIX,m-team.cc
-
-# Nvidia
-   - DOMAIN-SUFFIX,nvidia.com
