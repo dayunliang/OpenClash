@@ -1,1 +1,15 @@
-androidtvlauncherxfe-pa.googleapis.com
+
+payload: 
+   
+# HDAV
+
+  #- DOMAIN-KEYWORD,espn
+  
+   - DOMAIN-SUFFIX,arzon.jp
+   - DOMAIN-SUFFIX,aventertainments.com
+   - DOMAIN-SUFFIX,javdb.com
+   - DOMAIN-SUFFIX,javdb40.com
+   - DOMAIN-SUFFIX,msin.jp
+   - DOMAIN-SUFFIX,fc2.com
+   - DOMAIN-SUFFIX,avsox.click
+   - DOMAIN-SUFFIX,tellme.pw
