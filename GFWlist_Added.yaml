@@ -55,3 +55,6 @@ payload:
    
 # M-Team
    - DOMAIN-SUFFIX,m-team.cc
+
+# ARPL Compiler
+   - DOMAIN,global.download.synology.com
