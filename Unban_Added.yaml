@@ -41,6 +41,9 @@ payload:
     
    - IP-CIDR,47.242.93.89/32,no-resolve
    - IP-CIDR,101.132.178.196/32,no-resolve
+
+   # M-Team
+   - DOMAIN-SUFFIX,m-team.cc
    
   
    
