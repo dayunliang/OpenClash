@@ -45,6 +45,7 @@ payload:
    # PT
    - DOMAIN-SUFFIX,m-team.cc
    - DOMAIN-SUFFIX,hdhome.org
+   - DOMAIN-SUFFIX,hdsky.me
    
   
    
