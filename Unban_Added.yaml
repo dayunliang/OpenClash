@@ -46,6 +46,10 @@ payload:
    - DOMAIN-SUFFIX,m-team.cc
    - DOMAIN-SUFFIX,hdhome.org
    - DOMAIN-SUFFIX,hdsky.me
+
+   # Tencent Cloud
+   
+   - DOMAIN-SUFFIX,tencentcloud.com
    
   
    
