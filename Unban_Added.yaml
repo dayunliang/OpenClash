@@ -47,9 +47,10 @@ payload:
    - DOMAIN-SUFFIX,hdhome.org
    - DOMAIN-SUFFIX,hdsky.me
 
-   # Tencent Cloud
+   # Tencent Cloud VPS
    
    - DOMAIN-SUFFIX,tencentcloud.com
+   - IP-CIDR,43.133.195.198/32,no-resolve
    
   
    
