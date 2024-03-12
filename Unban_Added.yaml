@@ -18,6 +18,7 @@ payload:
    - DOMAIN-SUFFIX,splashtop.com
    - DOMAIN-SUFFIX,ipinfo.io
 #   - DOMAIN-SUFFIX,ultramobile.com
+   - DOMAIN-SUFFIX,bankofamerica.com
    - DOMAIN-SUFFIX,hivebedrock.network
    - DOMAIN-SUFFIX,hpeprint.com
    - DOMAIN-SUFFIX,hp.com
