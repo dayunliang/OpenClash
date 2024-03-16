@@ -9,12 +9,10 @@ payload:
 
 # Google
 
-   - IP-CIDR,142.250.204.110/32,no-resolve
-   - IP-CIDR,142.250.207.78/32,no-resolve
-   - IP-CIDR,142.250.204.78/32,no-resolve
-   - IP-CIDR,64.233.189.101/32,no-resolve
-   - IP-CIDR,142.250.115.188/32,no-resolve
-   - IP-CIDR,142.251.84.42/32,no-resolve
+   - IP-CIDR,64.233.160.0/19,no-resolve
+   - IP-CIDR,142.250.0.0/15,no-resolve
+   - IP-CIDR,108.177.0.0/17,no-resolve
+   
    
 # Cloudfare
 
