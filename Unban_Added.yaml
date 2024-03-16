@@ -20,8 +20,6 @@ payload:
 #   - DOMAIN-SUFFIX,ultramobile.com
    - DOMAIN-SUFFIX,bankofamerica.com
    - DOMAIN-SUFFIX,hivebedrock.network
-   - DOMAIN-SUFFIX,hpeprint.com
-   - DOMAIN-SUFFIX,hp.com
    - DOMAIN-SUFFIX,unity3d.com
    - DOMAIN-SUFFIX,unity.com
    - DOMAIN-SUFFIX,grammarly.io
@@ -38,7 +36,17 @@ payload:
    - IP-CIDR,34.117.59.81/32,no-resolve
    - IP-CIDR,104.86.176.0/22,no-resolve # Akamai Technologies, Inc.
    - IP-CIDR,135.148.104.228/32,no-resolve # QingTian TV
-   - IP-CIDR,15.73.182.59/32,no-resolve
+
+   # HP Inc.
+
+   - DOMAIN-SUFFIX,hpeprint.com
+   - DOMAIN-SUFFIX,hp.com
+
+   - IP-CIDR,15.64.0.0/11,no-resolve
+   - IP-CIDR,15.100.0.0/15,no-resolve
+   - IP-CIDR,15.0.0.0/10,no-resolve
+   - IP-CIDR,15.102.0.0/16,no-resolve
+   - IP-CIDR,15.96.0.0/14,no-resolve
    
     # ALI-HK VPS
     
