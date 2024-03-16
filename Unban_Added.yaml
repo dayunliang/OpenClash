@@ -47,6 +47,7 @@ payload:
    - IP-CIDR,15.0.0.0/10,no-resolve
    - IP-CIDR,15.102.0.0/16,no-resolve
    - IP-CIDR,15.96.0.0/14,no-resolve
+   - IP-CIDR,15.73.182.59/32,no-resolve
    
     # ALI-HK VPS
     
