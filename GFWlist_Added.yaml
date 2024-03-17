@@ -13,6 +13,7 @@ payload:
    - IP-CIDR,142.250.0.0/15,no-resolve
    - IP-CIDR,108.177.0.0/17,no-resolve
    - IP-CIDR,104.196.0.0/14,no-resolve
+   - IP-CIDR,34.128.0.0/10/14,no-resolve
    
 # Cloudfare
 
