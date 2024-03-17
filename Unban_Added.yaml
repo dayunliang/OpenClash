@@ -39,6 +39,7 @@ payload:
    - IP-CIDR,135.148.104.228/32,no-resolve # QingTian TV
    - IP-CIDR,152.176.0.0/12,no-resolve # Verizon Business
    - IP-CIDR,152.192.0.0/13,no-resolve # Verizon Business
+   - IP-CIDR,104.64.0.0/10,no-resolve # Akamai Technologies, Inc.
 
    # HP Inc.
 
