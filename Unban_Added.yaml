@@ -42,6 +42,8 @@ payload:
    - IP-CIDR,152.176.0.0/12,no-resolve # Verizon Business
    - IP-CIDR,152.192.0.0/13,no-resolve # Verizon Business
    - IP-CIDR,104.64.0.0/10,no-resolve # Akamai Technologies, Inc.
+   - IP-CIDR,23.64.0.0/14,no-resolve # Akamai Technologies, Inc.
+   - IP-CIDR,23.32.0.0/11,no-resolve # Akamai Technologies, Inc.
    - IP-CIDR,18.0.0.0/11,no-resolve #MIT
 
    # HP Inc.
