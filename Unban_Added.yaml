@@ -33,6 +33,7 @@ payload:
    - DOMAIN-SUFFIX,b-gfw.cfd # Personal Domain
    - DOMAIN-SUFFIX,saphirodoriko.com # B-GFW
    - DOMAIN-KEYWORD,padlet # Justin Da Learning
+   - DOMAIN-KEYWORD,whois # Whois
    
    
    - IP-CIDR,34.117.59.81/32,no-resolve
