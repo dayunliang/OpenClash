@@ -21,6 +21,8 @@ payload:
    - IP-CIDR,162.159.128.0/19,no-resolve
    - IP-CIDR,172.67.192.0/20,no-resolve
    - IP-CIDR,104.26.0.0/20,no-resolve
+
+   - DOMAIN-SUFFIX,cloudflare.com
    
 # Github
 
