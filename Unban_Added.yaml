@@ -32,6 +32,7 @@ payload:
    - DOMAIN-SUFFIX,squarespace.com
    - DOMAIN-SUFFIX,b-gfw.cfd # Personal Domain
    - DOMAIN-SUFFIX,saphirodoriko.com # B-GFW
+   - DOMAIN-SUFFIX,padlet.org # Justin Da Learning
    
    - IP-CIDR,34.117.59.81/32,no-resolve
    - IP-CIDR,104.86.176.0/22,no-resolve # Akamai Technologies, Inc.
