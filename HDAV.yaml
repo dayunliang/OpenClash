@@ -20,5 +20,7 @@ payload:
    - DOMAIN-SUFFIX,javdb8.com
    - DOMAIN-SUFFIX,mgstage.com
    - DOMAIN-SUFFIX,r18.com
+   - DOMAIN-SUFFIX,javrate.com
+   - DOMAIN-SUFFIX,ggjav.com.com
    
    - IP-CIDR,69.28.53.205/32,no-resolve
