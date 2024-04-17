@@ -58,3 +58,5 @@ payload:
 
 # ARPL Compiler
    - DOMAIN,global.download.synology.com
+
+   - DOMAIN,atvlauncher.trekgonewild.de
