@@ -68,7 +68,7 @@ payload:
    - IP-CIDR,101.132.178.196/32,no-resolve
 
    # PT
-   - DOMAIN-SUFFIX,m-team.cc
+   #- DOMAIN-SUFFIX,m-team.cc
    - DOMAIN-SUFFIX,hdhome.org
    - DOMAIN-SUFFIX,hdsky.me
 
