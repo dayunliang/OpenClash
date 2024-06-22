@@ -4,4 +4,5 @@ payload:
 # OpenAI
 
    - DOMAIN-SUFFIX,openai.com
-   - DOMAIN-SUFFIX,chatgpt.com
+   #- DOMAIN-SUFFIX,chatgpt.com
+   - DOMAIN-KEYWORD,chatgpt
