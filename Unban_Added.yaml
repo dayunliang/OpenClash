@@ -37,6 +37,7 @@ payload:
    
    - DOMAIN-KEYWORD,padlet # Justin Da Learning
    - DOMAIN-KEYWORD,whois # Whois
+   - DOMAIN-KEYWORD,wildcard # WildCard
 
    
    
