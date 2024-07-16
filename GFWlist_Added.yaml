@@ -59,6 +59,12 @@ payload:
 # TTG
    - DOMAIN-SUFFIX,totheglory.im
 
+# HD Home
+   - DOMAIN-SUFFIX,hdhome.org
+
+# HDSky
+   - DOMAIN-SUFFIX,hdsky.me
+
 # ARPL Compiler
    - DOMAIN,global.download.synology.com
 
