@@ -14,8 +14,7 @@ payload:
    
 # Others
 
-   - DOMAIN,api.revenuecat.com #APTV
-   
+   - DOMAIN-SUFFIX,revenuecat.com #APTV
    - DOMAIN-SUFFIX,termius.com
    #- DOMAIN-SUFFIX,splashtop.com
    - DOMAIN-SUFFIX,ipinfo.io
