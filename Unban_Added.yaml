@@ -16,7 +16,7 @@ payload:
 
    - DOMAIN-SUFFIX,revenuecat.com #APTV
    - DOMAIN-SUFFIX,termius.com
-   #- DOMAIN-SUFFIX,splashtop.com
+   - DOMAIN-SUFFIX,splashtop.com
    - DOMAIN-SUFFIX,ipinfo.io
    - DOMAIN-SUFFIX,ultramobile.com
    - DOMAIN-SUFFIX,bankofamerica.com
