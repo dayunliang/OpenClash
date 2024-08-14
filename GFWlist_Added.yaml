@@ -69,3 +69,6 @@ payload:
    - DOMAIN,global.download.synology.com
 
    - DOMAIN,atvlauncher.trekgonewild.de
+
+# Others
+   - DOMAIN-SUFFIX,splashtop.com
