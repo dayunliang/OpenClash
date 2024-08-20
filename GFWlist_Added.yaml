@@ -71,4 +71,4 @@ payload:
    - DOMAIN,atvlauncher.trekgonewild.de
 
 # Others
-   - DOMAIN-SUFFIX,splashtop.com
+   #- DOMAIN-SUFFIX,splashtop.com
