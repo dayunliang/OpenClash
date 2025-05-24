@@ -1,6 +1,6 @@
 #!/bin/sh
-# back-route-complete.v3.sh
-# 修改时间：2025-05-25 13:00
+# back-route-complete.sh
+# 修改时间：2025-05-24
 #
 # 功能：
 #  1. 清理 OpenClash 默认的 fwmark 回程路由（0x162）  
