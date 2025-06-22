@@ -35,7 +35,7 @@ payload:
    - DOMAIN-SUFFIX,saphirodoriko.com # B-GFW
    - DOMAIN-SUFFIX,authy.com
    - DOMAIN-SUFFIX,ui.com # UBNT
-   - DOMAIN-SUFFIX,projectmoose.xyz # Youtube IPTV
+   #- DOMAIN-SUFFIX,projectmoose.xyz # Youtube IPTV
    
    - DOMAIN-KEYWORD,padlet # Justin Da Learning
    - DOMAIN-KEYWORD,whois # Whois
