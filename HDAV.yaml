@@ -25,5 +25,6 @@ payload:
    - DOMAIN-SUFFIX,avsox.monster
    - DOMAIN-SUFFIX,airav.wiki
    - DOMAIN-SUFFIX,javsee.men
+   - DOMAIN-SUFFIX,g60y.com
    
    - IP-CIDR,69.28.53.205/32,no-resolve
