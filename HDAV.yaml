@@ -21,6 +21,9 @@ payload:
    - DOMAIN-SUFFIX,mgstage.com
    - DOMAIN-SUFFIX,r18.com
    - DOMAIN-SUFFIX,javrate.com
-   - DOMAIN-SUFFIX,ggjav.com.com
+   - DOMAIN-SUFFIX,ggjav.com
+   - DOMAIN-SUFFIX,avsox.monster
+   - DOMAIN-SUFFIX,airav.wiki
+   - DOMAIN-SUFFIX,javsee.men
    
    - IP-CIDR,69.28.53.205/32,no-resolve
