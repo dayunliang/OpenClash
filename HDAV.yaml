@@ -26,5 +26,12 @@ payload:
    - DOMAIN-SUFFIX,airav.wiki
    - DOMAIN-SUFFIX,javsee.men
    - DOMAIN-SUFFIX,g60y.com
+   - DOMAIN-SUFFIX,dmm.co.jp
+   - DOMAIN-SUFFIX,av-league.com
+   - DOMAIN-SUFFIX,avbase.net
+   - DOMAIN-SUFFIX,dahlia-av.jp
+   - DOMAIN-SUFFIX,duga.jp
+   - DOMAIN-SUFFIX,ec.sod.co.jp
+   - DOMAIN-SUFFIX,faleno.jp
    
    - IP-CIDR,69.28.53.205/32,no-resolve
