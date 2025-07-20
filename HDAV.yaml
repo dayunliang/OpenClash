@@ -33,5 +33,6 @@ payload:
    - DOMAIN-SUFFIX,duga.jp
    - DOMAIN-SUFFIX,ec.sod.co.jp
    - DOMAIN-SUFFIX,faleno.jp
+   - DOMAIN-SUFFIX,javten.com
    
    - IP-CIDR,69.28.53.205/32,no-resolve
