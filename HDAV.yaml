@@ -34,5 +34,6 @@ payload:
    - DOMAIN-SUFFIX,ec.sod.co.jp
    - DOMAIN-SUFFIX,faleno.jp
    - DOMAIN-SUFFIX,javten.com
+   - DOMAIN-SUFFIX,javfree.me
    
    - IP-CIDR,69.28.53.205/32,no-resolve
