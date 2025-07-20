@@ -41,5 +41,6 @@ payload:
    - DOMAIN-SUFFIX,tokyo-hot.com
    - DOMAIN-SUFFIX,heyzo.com
    - DOMAIN-SUFFIX,getchu.com
+   - DOMAIN-SUFFIX,fc2club.top
    
    - IP-CIDR,69.28.53.205/32,no-resolve
