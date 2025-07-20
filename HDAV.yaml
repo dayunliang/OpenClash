@@ -35,5 +35,11 @@ payload:
    - DOMAIN-SUFFIX,faleno.jp
    - DOMAIN-SUFFIX,javten.com
    - DOMAIN-SUFFIX,javfree.me
+   - DOMAIN-SUFFIX,xxx-av.com
+   - DOMAIN-SUFFIX,kin8tengoku.com
+   - DOMAIN-SUFFIX,c0930.com
+   - DOMAIN-SUFFIX,tokyo-hot.com
+   - DOMAIN-SUFFIX,heyzo.com
+   - DOMAIN-SUFFIX,getchu.com
    
    - IP-CIDR,69.28.53.205/32,no-resolve
