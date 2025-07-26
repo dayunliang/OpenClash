@@ -4,6 +4,8 @@ payload:
 # HDAV
 
   #- DOMAIN-KEYWORD,espn
+  #- DOMAIN-SUFFIX,arzon.jp
+  #- IP-CIDR,69.28.53.205/32,no-resolve
   
    - DOMAIN-SUFFIX,arzon.jp
    - DOMAIN-SUFFIX,aventertainments.com
@@ -50,5 +52,7 @@ payload:
    - DOMAIN-SUFFIX,yesjav.info
    - DOMAIN-SUFFIX,prestige-av.com
    - DOMAIN-SUFFIX,muku.tv
+   
+   - DOMAIN-KEYWORD,javday
    
    - IP-CIDR,69.28.53.205/32,no-resolve
