@@ -36,6 +36,7 @@ payload:
    - DOMAIN-SUFFIX,authy.com
    - DOMAIN-SUFFIX,ui.com # UBNT
    - DOMAIN-SUFFIX,alibabacloud.com # Alibaba Cloud
+   - DOMAIN-SUFFIX,aliyun.com # 阿里云
    #- DOMAIN-SUFFIX,projectmoose.xyz # Youtube IPTV
    
    - DOMAIN-KEYWORD,padlet # Justin Da Learning
