@@ -16,6 +16,28 @@ proxy-providers:
 
 # 节点信息
 proxies:
+- name: ALI-HK
+  type: trojan
+  server: ali-hk.b-gfw.cfd
+  port: 12012
+  password: '12012'
+  udp: true
+  sni: ali-hk.b-gfw.cfd
+  skip-cert-verify: true
+  ip-version: ipv4-prefer
+  tfo: false
+- name: ALI-JP
+  type: trojan
+  server: ali-jp.b-gfw.cfd
+  port: 12012
+  password: '12012'
+  udp: true
+  sni: ali-jp.b-gfw.sbs
+  alpn:
+  - h2
+  skip-cert-verify: true
+  ip-version: ipv4-prefer
+  tfo: false
   - {name: 直连, type: direct}
 
 # 全局配置 
