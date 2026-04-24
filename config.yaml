@@ -32,7 +32,7 @@ proxies:
     port: 12012
     password: '12012'
     udp: true
-    sni: ali-jp.b-gfw.sbs
+    sni: ali-jp.b-gfw.cfd
     alpn:
     - h2
     skip-cert-verify: true
