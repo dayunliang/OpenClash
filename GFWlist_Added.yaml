@@ -70,6 +70,12 @@ payload:
 
    - DOMAIN,atvlauncher.trekgonewild.de
 
+# DNS Query
+   - DOMAIN,dns.nextdns.io
+   - DOMAIN,cloudflare-dns.com
+   - DOMAIN,dns.google
+   - DOMAIN,dns.quad9.net
+
 # Others
    - DOMAIN-SUFFIX,splashtop.com
    - DOMAIN-SUFFIX,projectmoose.xyz # Youtube IPTV
