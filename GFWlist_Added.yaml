@@ -71,10 +71,10 @@ payload:
    - DOMAIN,atvlauncher.trekgonewild.de
 
 # DNS
-   - DOMAIN-SUFFIX,dns.nextdns.io
-   - DOMAIN-SUFFIX,cloudflare-dns.com
-   - DOMAIN-SUFFIX,dns.google
-   - DOMAIN-SUFFIX,dns.quad9.net
+#   - DOMAIN-SUFFIX,dns.nextdns.io
+#   - DOMAIN-SUFFIX,cloudflare-dns.com
+#   - DOMAIN-SUFFIX,dns.google
+#   - DOMAIN-SUFFIX,dns.quad9.net
    
 # Others
    - DOMAIN-SUFFIX,splashtop.com
