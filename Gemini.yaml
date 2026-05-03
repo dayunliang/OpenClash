@@ -1,0 +1,8 @@
+
+payload: 
+   
+# OpenAI
+
+   - DOMAIN-KEYWORD,openai.com
+   - DOMAIN-KEYWORD,chatgpt
+#   - DOMAIN-SUFFIX,chatgpt.com
