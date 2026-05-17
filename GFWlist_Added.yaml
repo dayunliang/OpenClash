@@ -80,3 +80,4 @@ payload:
    - DOMAIN-SUFFIX,splashtop.com
    - DOMAIN-SUFFIX,projectmoose.xyz # Youtube IPTV
    - DOMAIN-SUFFIX,alibabacloud.com # Alibaba Cloud
+   - DOMAIN-SUFFIX,alpinelinux.org # Alpine Linux
