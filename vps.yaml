@@ -1,0 +1,8 @@
+# 内容：VPS
+
+payload:
+
+# > VPS
+
+  - IP-CIDR,47.242.93.89/32,no-resolve
+  - IP-CIDR,43.106.69.213/32,no-resolve
