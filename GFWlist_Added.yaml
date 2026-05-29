@@ -7,6 +7,10 @@ payload:
    - DOMAIN,api-ipv4.ip.sb
    - DOMAIN,api.ip.sb
 
+# Docker & Container
+   - DOMAIN-SUFFIX,docker.io
+   - DOMAIN-SUFFIX,dockerproxy.com
+   
 # Google
 
    - IP-CIDR,64.233.160.0/19,no-resolve
