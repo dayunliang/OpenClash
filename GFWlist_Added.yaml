@@ -70,6 +70,9 @@ payload:
 # HDSky
    - DOMAIN-SUFFIX,hdsky.me
 
+# DaoCloud
+   - DOMAIN-SUFFIX,daocloud.vip
+
 # ARPL Compiler
    - DOMAIN,global.download.synology.com
 
@@ -80,9 +83,6 @@ payload:
 #   - DOMAIN-SUFFIX,cloudflare-dns.com
 #   - DOMAIN-SUFFIX,dns.google
 #   - DOMAIN-SUFFIX,dns.quad9.net
-
-# DaoCloud
-   - DOMAIN-SUFFIX,daocloud.vip
    
 # Others
 #   - DOMAIN-SUFFIX,splashtop.com
