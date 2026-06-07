@@ -80,6 +80,9 @@ payload:
 #   - DOMAIN-SUFFIX,cloudflare-dns.com
 #   - DOMAIN-SUFFIX,dns.google
 #   - DOMAIN-SUFFIX,dns.quad9.net
+
+# DaoCloud
+   - DOMAIN-SUFFIX,daocloud.vip
    
 # Others
 #   - DOMAIN-SUFFIX,splashtop.com
