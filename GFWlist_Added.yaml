@@ -10,6 +10,7 @@ payload:
 # Docker & Container
    - DOMAIN-SUFFIX,docker.io
    - DOMAIN-SUFFIX,dockerproxy.net
+   - DOMAIN-SUFFIX,dockerproxy.com
    
 # Google
 
