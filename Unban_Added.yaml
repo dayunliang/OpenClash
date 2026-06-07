@@ -84,7 +84,7 @@ payload:
    - IP-CIDR,43.128.84.209/32,no-resolve
 
    # DaoCloud
-   - DOMAIN-SUFFIX,daocloud.vip
+   #- DOMAIN-SUFFIX,daocloud.vip
    
   
    
