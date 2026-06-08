@@ -43,6 +43,7 @@ payload:
    - DOMAIN-KEYWORD,whois # Whois
    - DOMAIN-KEYWORD,wildcard # WildCard
    - DOMAIN-KEYWORD,zoom # Zoom
+   - DOMAIN,speedtest.b-gfw.cf-ip.cfd # CFST Domain
 
    
    
