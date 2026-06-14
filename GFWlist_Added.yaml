@@ -19,6 +19,7 @@ payload:
    - IP-CIDR,108.177.0.0/17,no-resolve
    - IP-CIDR,104.196.0.0/14,no-resolve
    - IP-CIDR,34.128.0.0/10,no-resolve
+   - DOMAIN-SUFFIX,google.com
    
 # Cloudflare, Inc.
 
