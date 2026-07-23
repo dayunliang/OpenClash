@@ -42,7 +42,7 @@ payload:
    - DOMAIN-KEYWORD,padlet # Justin Da Learning
    - DOMAIN-KEYWORD,whois # Whois
    - DOMAIN-KEYWORD,wildcard # WildCard
-   - DOMAIN-KEYWORD,zoom # Zoom
+   # - DOMAIN-KEYWORD,zoom # Zoom
    - DOMAIN,speedtest.b-gfw.cf-ip.cfd # CFST Domain
    - DOMAIN,dl-cdn.alpinelinux.org # Alpine Linux
 
